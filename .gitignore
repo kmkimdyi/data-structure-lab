@@ -1,13 +1,10 @@
-# Visual Studio
+# VS & build artifacts
 .vs/
 *.user
 *.suo
 *.VC.db
 *.opendb
-*.aps
-*.ncb
 
-# Build artifacts
 Debug/
 Release/
 x64/
@@ -24,7 +21,7 @@ ipch/
 # Editors
 .vscode/
 
-# Outputs
+# outputs
 bin/
 obj/
 out/
